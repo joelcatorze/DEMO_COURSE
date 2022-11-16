@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5f1DHsmuttg_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Amazon Resolving Scenarios Assessment_v1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Amazon_Resolving_Scenarios_Assessment_v1_ORG">
+    <organization identifier="Amazon_Resolving_Scenarios_Assessment_v1_ORG">
+      <title>Amazon Resolving Scenarios Assessment_v1</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5f1DHsmuttg_course_id_RES">
+        <title>Amazon Resolving Scenarios Assessment_v1</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5f1DHsmuttg_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/61hYdBFweCl.png" />
+      <file href="mobile/6cVIOc3hTR1_M_1914_1914_RA0C8FF.png" />
+      <file href="mobile/6gJxXRSaWiP_M_1220_1220.png" />
+      <file href="mobile/6cpQZN8Pz6o.png" />
+      <file href="mobile/6PQhKsTIseD.png" />
+      <file href="mobile/6GRCohTXzHE.jpg" />
+      <file href="mobile/6GRCohTXzHE_P_488_70_437_208.jpg" />
+      <file href="mobile/6GRCohTXzHE_P_9_290_919_173.jpg" />
+      <file href="mobile/6GRCohTXzHE_P_9_74_459_210.jpg" />
+      <file href="story_content/WebObjects/6C2mOQs7bL4/index.html" />
+      <file href="story_content/WebObjects/6C2mOQs7bL4/README.md" />
+      <file href="story_content/WebObjects/6C2mOQs7bL4/style.css" />
+      <file href="story_content/WebObjects/6C2mOQs7bL4/upload.php" />
+      <file href="story_content/WebObjects/6C2mOQs7bL4/js/app.js" />
+      <file href="mobile/6C2mOQs7bL45shWEKXbUfY{Width=448, Height=206}Light.png" />
+      <file href="mobile/5dS6hUmmQts_RA0C8FF.jpg" />
+      <file href="story_content/WebObjects/5nfS4ZjoL8m/index.html" />
+      <file href="story_content/WebObjects/5nfS4ZjoL8m/README.md" />
+      <file href="story_content/WebObjects/5nfS4ZjoL8m/style.css" />
+      <file href="story_content/WebObjects/5nfS4ZjoL8m/upload.php" />
+      <file href="story_content/WebObjects/5nfS4ZjoL8m/js/app.js" />
+      <file href="mobile/5nfS4ZjoL8m6SpsCoKxnhy{Width=448, Height=206}Light.png" />
+      <file href="story_content/WebObjects/5a5a61eVVCF/index.html" />
+      <file href="story_content/WebObjects/5a5a61eVVCF/README.md" />
+      <file href="story_content/WebObjects/5a5a61eVVCF/style.css" />
+      <file href="story_content/WebObjects/5a5a61eVVCF/upload.php" />
+      <file href="story_content/WebObjects/5a5a61eVVCF/js/app.js" />
+      <file href="mobile/5a5a61eVVCF6Z4gtpKmIPO{Width=448, Height=206}Light.png" />
+      <file href="story_content/WebObjects/68dIKlMdFE8/index.html" />
+      <file href="story_content/WebObjects/68dIKlMdFE8/README.md" />
+      <file href="story_content/WebObjects/68dIKlMdFE8/style.css" />
+      <file href="story_content/WebObjects/68dIKlMdFE8/upload.php" />
+      <file href="story_content/WebObjects/68dIKlMdFE8/js/app.js" />
+      <file href="mobile/68dIKlMdFE86dgzAVtX4Pv{Width=448, Height=206}Light.png" />
+      <file href="story_content/WebObjects/5ajxnxfeiMH/index.html" />
+      <file href="story_content/WebObjects/5ajxnxfeiMH/README.md" />
+      <file href="story_content/WebObjects/5ajxnxfeiMH/style.css" />
+      <file href="story_content/WebObjects/5ajxnxfeiMH/upload.php" />
+      <file href="story_content/WebObjects/5ajxnxfeiMH/js/app.js" />
+      <file href="mobile/5ajxnxfeiMH5br1mEYIrv4{Width=448, Height=206}Light.png" />
+      <file href="story_content/WebObjects/5aeHhPkPIPb/index.html" />
+      <file href="story_content/WebObjects/5aeHhPkPIPb/README.md" />
+      <file href="story_content/WebObjects/5aeHhPkPIPb/style.css" />
+      <file href="story_content/WebObjects/5aeHhPkPIPb/upload.php" />
+      <file href="story_content/WebObjects/5aeHhPkPIPb/js/app.js" />
+      <file href="mobile/5aeHhPkPIPb6EWgeBb0oTS{Width=448, Height=206}Light.png" />
+      <file href="story_content/WebObjects/5xi0m2vQfVv/index.html" />
+      <file href="story_content/WebObjects/5xi0m2vQfVv/README.md" />
+      <file href="story_content/WebObjects/5xi0m2vQfVv/style.css" />
+      <file href="story_content/WebObjects/5xi0m2vQfVv/upload.php" />
+      <file href="story_content/WebObjects/5xi0m2vQfVv/js/app.js" />
+      <file href="mobile/5xi0m2vQfVv6FQ8IAp4EIL{Width=448, Height=206}Light.png" />
+      <file href="story_content/WebObjects/6TY3Q93S5S9/index.html" />
+      <file href="story_content/WebObjects/6TY3Q93S5S9/README.md" />
+      <file href="story_content/WebObjects/6TY3Q93S5S9/style.css" />
+      <file href="story_content/WebObjects/6TY3Q93S5S9/upload.php" />
+      <file href="story_content/WebObjects/6TY3Q93S5S9/js/app.js" />
+      <file href="mobile/6TY3Q93S5S95WqxkejE3eE{Width=448, Height=206}Light.png" />
+      <file href="story_content/WebObjects/6ax5OHiJ2Bj/index.html" />
+      <file href="story_content/WebObjects/6ax5OHiJ2Bj/README.md" />
+      <file href="story_content/WebObjects/6ax5OHiJ2Bj/style.css" />
+      <file href="story_content/WebObjects/6ax5OHiJ2Bj/upload.php" />
+      <file href="story_content/WebObjects/6ax5OHiJ2Bj/js/app.js" />
+      <file href="mobile/6ax5OHiJ2Bj5o8af8kXFqT{Width=448, Height=206}Light.png" />
+      <file href="story_content/WebObjects/6JHz49zJtwJ/index.html" />
+      <file href="story_content/WebObjects/6JHz49zJtwJ/README.md" />
+      <file href="story_content/WebObjects/6JHz49zJtwJ/style.css" />
+      <file href="story_content/WebObjects/6JHz49zJtwJ/upload.php" />
+      <file href="story_content/WebObjects/6JHz49zJtwJ/js/app.js" />
+      <file href="mobile/6JHz49zJtwJ5y7HCHEYhEN{Width=448, Height=206}Light.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6pDPlcS2HJz.png" />
+      <file href="mobile/txt__default_5ZS3nb1nz8S.png" />
+      <file href="mobile/txt__default_5cYzKhxm8lc.png" />
+      <file href="mobile/txt__default_6XtoF6tZ3GC.png" />
+      <file href="mobile/txt__default_6Hp2lBseH7S.png" />
+      <file href="mobile/txt__default_6asQepUhihQ.png" />
+      <file href="mobile/txt__default_6erpHCxvsnn.png" />
+      <file href="mobile/txt__default_5xmyoSeKAgj.png" />
+      <file href="mobile/txt__default_5gTiV7sjrnO.png" />
+      <file href="mobile/txt__default_6ZQFE5MKKWs.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5d9GVu61Cjs.js" />
+      <file href="html5/data/js/5djsTsTPgDz.js" />
+      <file href="html5/data/js/5jj3YQXA8i0.js" />
+      <file href="html5/data/js/5oKbnRWbXMF.js" />
+      <file href="html5/data/js/5rygGLLxk1y.js" />
+      <file href="html5/data/js/5vbaTEFvCIh.js" />
+      <file href="html5/data/js/64f8NOf9OU6.js" />
+      <file href="html5/data/js/69ITo1EyYZY.js" />
+      <file href="html5/data/js/6Bum1VSJ9pZ.js" />
+      <file href="html5/data/js/6CanNqQwBMZ.js" />
+      <file href="html5/data/js/6dhZHvIa0C1.js" />
+      <file href="html5/data/js/6G6GtpQQUiO.js" />
+      <file href="html5/data/js/6gN1x3G7u26.js" />
+      <file href="html5/data/js/6HaCwheXt8o.js" />
+      <file href="html5/data/js/6kZtQlRVVr0.js" />
+      <file href="html5/data/js/6mcmubI7wZU.js" />
+      <file href="html5/data/js/6mNOkGTo0zP.js" />
+      <file href="html5/data/js/6nYYpcBrTKP.js" />
+      <file href="html5/data/js/6OOB4FThrXI.js" />
+      <file href="html5/data/js/6OrGfCYyn3q.js" />
+      <file href="html5/data/js/6p2KD3A7GRM.js" />
+      <file href="html5/data/js/6R8C53KPLIn.js" />
+      <file href="html5/data/js/6S00Qm24DKy.js" />
+      <file href="html5/data/js/6SD5qnH7rgB.js" />
+      <file href="html5/data/js/6YjbLlSG68f.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
